@@ -1,0 +1,10 @@
+{
+  "description": "Explore Sarah Bui’s computer engineering portfolio, featuring her experience, education, community involvement, and GitHub projects.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
